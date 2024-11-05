@@ -1,5 +1,7 @@
 ## AEM Project Setup
 
+Don't want to setup and debug errors while creating project? Here's ready to go AEM Maven Archtype Project Repo. Enjoy :smiley:
+
 #### 1.  Make sure the system is ready with all the required dependencies i.e., Maven and JDK. 
 
 #### 2.  Copy below command and paste it in command prompt in desired folder 
