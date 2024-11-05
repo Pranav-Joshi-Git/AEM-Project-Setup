@@ -56,8 +56,7 @@ height="2.9591272965879267in"}
     the following error:
 
 ![A screen shot of a computer screen Description automatically
-generated](./image7.png){width="7.268055555555556in"
-height="2.227777777777778in"}
+generated](./image7.png)
 
 The error essentially tells that there is not any Header Model (Java
 Class) for that component (logo component in this case). Try navigating
