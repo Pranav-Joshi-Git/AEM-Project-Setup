@@ -8,7 +8,7 @@
     
    ```mvn -B org.apache.maven.plugins:maven-archetype-plugin:3.2.1:generate  "-D archetypeGroupId=com.adobe.aem"  "-D archetypeArtifactId=aem-project-archetype"  "-D archetypeVersion=39"  "-D appTitle=AEM Practice Project"  "-D appId=practice"  "-D groupId=com.adobe.aem.practice"  "-D artifactId=aem-guides-practice"  "-D package=com.adobe.aem.guides.practice"  "-D version=0.0.1-SNAPSHOT"  "-D aemVersion=6.5.0"```
 
-4.  Post running this command, project build may fail because of below
+3.  Post running this command, project build may fail because of below
     error:
 
 ![A screenshot of a computer program Description automatically
